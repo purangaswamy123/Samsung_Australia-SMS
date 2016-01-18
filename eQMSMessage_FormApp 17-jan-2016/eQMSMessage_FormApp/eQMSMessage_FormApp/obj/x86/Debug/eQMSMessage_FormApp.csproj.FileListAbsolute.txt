@@ -1,0 +1,255 @@
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Documents\Visual Studio 2010\Projects\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\eQMS Complete\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\eQMS Working\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\eQMS Working\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\eQMS Working\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\eQMS Working\FinalSMS Apps\FinalSMS Apps\SMS Solutions\eQMSMessage_FormApp\eQMSMessage_For
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\TIM SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\TIM SMS18092015\TIM SMS15092015\TIM SMS01092015\Wollongong SMS08052015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong SMS26092015\Wollongong SMS18092015\Wollongong SMS18092015\Wollongong SMS18092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATTEQMS\Desktop\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\aaa\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\aaa\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\aaa\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\12-Oct-2015\Wollongong FinalSMS26092015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ATT INDIA2\Desktop\Wollongong\13-Oct-2015\Wollongong SMS01102015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ATT INDIA2\Desktop\13-10-15updated\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\EQMS\Australia\October\14-10-2015\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\EQMS\Australia\October\14-10-2015\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\October\14-10-2015\Wollongong SMS 13-10-15\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+C:\Users\ATT INDIA2\Desktop\Wollongong\5-11-15\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+C:\Users\ATT INDIA2\Desktop\Wollongong\5-11-15\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+C:\Users\ATT INDIA2\Desktop\Wollongong\5-11-15\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\EQMS\Australia\November\05-11-2015\06-11-2015 from charley\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\EQMS\Australia\November\05-11-2015\06-11-2015 from charley\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\November\05-11-2015\06-11-2015 from charley\Wollongong SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\08-11-15\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\MessageMedia.dll
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\Samsung\Charley 09.11.2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\aaa\Delta to Alpha 07-Dec-2015\Samsung SMS 05-11-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+G:\07-12-2015 From Alpha to Charley\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+G:\07-12-2015 From Alpha to Charley\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+G:\07-12-2015 From Alpha to Charley\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\Samsung\08.12.2015 delta\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Samsung\08.12.2015 delta\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Samsung\08.12.2015 delta\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\08-12-2015 from Team Alpha\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\08-12-2015 from Team Alpha\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\08-12-2015 from Team Alpha\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\Manju\Samsung SMS 07-12-2015 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\Samsung\10-12-2015 Delta\Samsung SMS 09-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csprojResolveAssemblyReference.cache
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\EQMS\Australia\January\07-Jan-2016\SAMSUNG SMS UPDATED\10-12-15 SAMSUNG SMS APPLICATION FROM ALPHA\Samsung SMS 10-12-2015 R1 from Alpha\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Sunni 10-01-2016\08-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+I:\Beeta\10-JAN-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+I:\Beeta\10-JAN-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+I:\Beeta\10-JAN-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csprojResolveAssemblyReference.cache
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\Sanni 11-01-2016\10-JAN-16 SMS APPLICATION FROM Beeta\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\12-01-2015\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csprojResolveAssemblyReference.cache
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\12-01-16\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\13-01--2016\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\13-01--2016\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\13-01--2016\SMS Notification\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+G:\Beeta\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+G:\Beeta\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+G:\Beeta\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\EQMS\Australia\January\13-Jan-2016\Samsung_Australia SMS\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csprojResolveAssemblyReference.cache
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 13JAN2016\eQMSMessage_FormApp\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csprojResolveAssemblyReference.cache
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+E:\Sanni 16-01-2016\16-01-2016\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe.config
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.exe
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\bin\Debug\eQMSMessage_FormApp.pdb
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Form1.resources
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.Properties.Resources.resources
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.csproj.GenerateResource.Cache
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.exe
+D:\Sanni 18-01-2016\sms\Samsung_Australia SMS 17JAN2016\eQMSMessage_FormApp 17-jan-2016\eQMSMessage_FormApp\eQMSMessage_FormApp\obj\x86\Debug\eQMSMessage_FormApp.pdb

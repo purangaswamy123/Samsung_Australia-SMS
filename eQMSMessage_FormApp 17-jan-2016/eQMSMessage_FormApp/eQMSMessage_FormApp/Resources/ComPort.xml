@@ -1,0 +1,1 @@
+<?xml version="1.0"?><!--First Comment XmlTextWriter Sample Example--><!--XmlFile.xml in root dir--><ComPort><r:ComPort xmlns:r="urn:ComPort"><portname>com3</portname><baudrate>9600</baudrate><databits>8</databits><stopbits>1</stopbits><paritybits>None</paritybits><readtimeout>300</readtimeout><writetimeout>300</writetimeout></r:ComPort></ComPort>
